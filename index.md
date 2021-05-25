@@ -177,5 +177,31 @@ Your browser does not support the audio element.
 </audio>
 
 ### Characteristic Matching Test(Section 5.7)
-We select 3 attributes: **gender, age, and BMI** to evaluate the influence of speaker characteristics tovoice qualities.
+We select 3 attributes: **gender, age, and BMI** to evaluate the influence of speaker characteristics tovoice qualities. We choose two opposite characteristics of one attributes to generate speech from.
+
+#### gender
+male:
+
+<audio controls>
+  <source src="./audio/attrMatch_s/male1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="./audio/faceMatch/male2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+female:
+
+<audio controls>
+  <source src="./audio/attrMatch_s/female1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="./audio/faceMatch/female2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 
