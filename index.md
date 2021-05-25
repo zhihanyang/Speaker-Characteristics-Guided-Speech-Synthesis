@@ -228,3 +228,29 @@ Your browser does not support the audio element.
   <source src="./audio/attrMatch_s/old2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+
+#### BMI
+underweight:
+
+<audio controls>
+  <source src="./audio/attrMatch_s/slim1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="./audio/attrMatch_s/slim2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+overweight:
+
+<audio controls>
+  <source src="./audio/attrMatch_s/fat1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="./audio/attrMatch_s/fat2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
