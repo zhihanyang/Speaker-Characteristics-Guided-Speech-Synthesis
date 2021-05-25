@@ -263,7 +263,7 @@ We give some examples to illustrate how voice change as the characteristic chang
 
 male
 
-![Branching](./image/middleage_m.png)
+![Branching](./image/male.png)
 
 <audio controls>
   <source src="./audio/attrMatch/m_middleage.wav" type="audio/wav">
@@ -272,7 +272,7 @@ Your browser does not support the audio element.
 
 female
 
-![Branching](./image/middleage_f.png)
+![Branching](./image/female.png)
 
 <audio controls>
   <source src="./audio/attrMatch/f_middleage.wav" type="audio/wav">
