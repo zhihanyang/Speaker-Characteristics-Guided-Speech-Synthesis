@@ -260,9 +260,31 @@ We give some examples to illustrate how voice change as the characteristic chang
 
 #### BMI
 
-![Branching](./image/middleweight_m.png width=60%)
+##### male
+
+underweight
+
+![Branching](./image/thin_m.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/m_thin.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+middleweight
+
+![Branching](./image/middleweight_m.png)
 
 <audio controls>
   <source src="./audio/attrMatch/m_middleage.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+overweight
+
+![Branching](./image/fat_m.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/m_fat.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
