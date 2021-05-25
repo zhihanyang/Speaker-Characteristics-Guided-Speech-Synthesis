@@ -258,6 +258,27 @@ Your browser does not support the audio element.
 ### Relationship between Characteristic and Voice(Section 5.8)
 We give some examples to illustrate how voice change as the characteristic change.
 
+#### gender
+
+
+male
+
+![Branching](./image/middleage_m.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/m_middleage.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+female
+
+![Branching](./image/middleage_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_middleage.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 #### age
 
 ##### male
