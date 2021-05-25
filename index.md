@@ -260,7 +260,7 @@ We give some examples to illustrate how voice change as the characteristic chang
 
 #### BMI
 
-![Branching](./image/middleweight_m.png)
+![Branching](./image/middleweight_m.png width=60%)
 
 <audio controls>
   <source src="./audio/attrMatch/m_middleage.wav" type="audio/wav">
