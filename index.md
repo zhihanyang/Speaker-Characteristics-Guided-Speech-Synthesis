@@ -80,16 +80,17 @@ Your browser does not support the audio element.
 </audio>
 
 ## Face Matching Test(Section 5.7)
+### unseen speakers
 
 ![Branching](./image/00425.jpg)
 ground truth:
 <audio controls>
-  <source src="./audio/baselines/cvae_sample3.wav" type="audio/wav">
+  <source src="./audio/faceMatch/id00425.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 ours:
 <audio controls>
-  <source src="./audio/baselines/cvae_sample4.wav" type="audio/wav">
+  <source src="./audio/faceMatch/id00425_fake.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
