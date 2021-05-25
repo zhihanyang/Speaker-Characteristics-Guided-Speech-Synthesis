@@ -5,8 +5,7 @@ To address the problem, we first select 6 speaker characteristics related to the
 The subjective tests indicate that our method can reconstruct real-world speaker embedding, and generate meaningful fake embeddings from speaker characteristics. The further analysis uncovers how and to what extent the speaker characteristics influence the voice qualities of speakers.
 
 ## Comparison with Baselines(Section 5.5)
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+These samples as corresponding to Section 5.5 in our paper. **LibriTTS** is the original TTS training dataset; **Voxceleb2** is unseen during TTS training and we train the next two models on this dataset; we train **MAF** and **attentionCVAE** to generate embedding from fake characteristic labels. We randomly select 4 samples for each respectively.
 
 ### LibriTTS
 <audio controls>
@@ -62,7 +61,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-### MAF
+### attentionCVAE(ours)
 <audio controls>
   <source src="./audio/baselines/cvae_sample1.wav" type="audio/wav">
 Your browser does not support the audio element.
@@ -75,6 +74,20 @@ Your browser does not support the audio element.
   <source src="./audio/baselines/cvae_sample3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+<audio controls>
+  <source src="./audio/baselines/cvae_sample4.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+## Face Matching Test(Section 5.7)
+
+![Branching](./image/00425.jpg)
+ground truth:
+<audio controls>
+  <source src="./audio/baselines/cvae_sample3.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+ours:
 <audio controls>
   <source src="./audio/baselines/cvae_sample4.wav" type="audio/wav">
 Your browser does not support the audio element.
