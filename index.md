@@ -3,9 +3,25 @@ Nowadays, talking head techniques are widely researched. Most of the previous wo
 Thus in this paper, we aim to generate proper voice characteristics in accordance with the speaker characteristics we set up.
 To address the problem, we first select 6 speaker characteristics related to the voice qualities: gender, age, race, body mass index, face shape, and personality. We then train a Conditional Variational AutoEncoder with attention (attentionCVAE) model to inference speaker embeddings from speaker characteristics and employ a multi-speaker text-to-speech system to generate speeches of nonexistent speakers we set.
 The subjective tests indicate that our method can reconstruct real-world speaker embedding, and generate meaningful fake embeddings from speaker characteristics. The further analysis uncovers how and to what extent the speaker characteristics influence the voice qualities of speakers.
-# Header 1
+
+# Comparison with Baselines(Section 5.5)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+### LibriTTS
+<audio controls>
+  <source src="./assets/images/f_<30_<25.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./assets/images/f_<30_<25.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+  <source src="./assets/images/f_<30_<25.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 ## Header 2
 
