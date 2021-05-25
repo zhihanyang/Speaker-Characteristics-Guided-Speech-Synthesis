@@ -254,3 +254,6 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
+
+### Relationship between Characteristic and Voice(Section 5.8)
+We give some examples to illustrate how voice change as the characteristic change.
