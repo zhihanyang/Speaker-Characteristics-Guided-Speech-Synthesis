@@ -80,8 +80,11 @@ Your browser does not support the audio element.
 </audio>
 
 ## Face Matching Test(Section 5.7)
+We randomly select 3 seen speakers and 3 unseen speakers during training from VoxCeleb2 respectively. We respectively generate speech from their speaker embedding extracted from their audio and the embedding predicted from our model, and compare to what extent these speech match the speaker's face.
+
 ### unseen speakers
 id00425
+
 ![Branching](./image/00425.jpg)
 
 ground truth:
