@@ -10,16 +10,15 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### LibriTTS
 <audio controls>
-  <source src="./assets/images/f_<30_<25.wav" type="audio/wav">
+  <source src="./audio/baselines/5126_34483.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 <audio controls>
-  <source src="./assets/images/f_<30_<25.wav" type="audio/wav">
+  <source src="./audio/baselines/5126_34483.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
-
 <audio controls>
-  <source src="./assets/images/f_<30_<25.wav" type="audio/wav">
+  <source src="./audio/baselines/5126_34483.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
