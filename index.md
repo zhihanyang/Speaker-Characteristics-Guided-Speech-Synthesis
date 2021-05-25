@@ -44,7 +44,41 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
+### MAF
+<audio controls>
+  <source src="./audio/baselines/maf_sample1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/maf_sample2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/maf_sample3.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/maf_sample4.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
+### MAF
+<audio controls>
+  <source src="./audio/baselines/cvae_sample1.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/cvae_sample2.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/cvae_sample3.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/cvae_sample4.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
 
 ## Header 2
 
