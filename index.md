@@ -258,6 +258,67 @@ Your browser does not support the audio element.
 ### Relationship between Characteristic and Voice(Section 5.8)
 We give some examples to illustrate how voice change as the characteristic change.
 
+#### age
+
+##### male
+
+young
+
+![Branching](./image/young_m.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/m_young.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+middleage
+
+![Branching](./image/middleage_m.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/m_middleage.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+elderly
+
+![Branching](./image/old_m.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/m_old.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+
+##### female
+
+young
+
+![Branching](./image/young_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_young.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+middleage
+
+![Branching](./image/middleage_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_middleage.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+elderly
+
+![Branching](./image/old_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_old.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 #### BMI
 
 ##### male
