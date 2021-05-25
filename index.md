@@ -82,6 +82,53 @@ Your browser does not support the audio element.
 ## Face Matching Test(Section 5.7)
 We randomly select 3 seen speakers and 3 unseen speakers during training from VoxCeleb2 respectively. We respectively generate speech from their speaker embedding extracted from their audio and the embedding predicted from our model, and compare to what extent these speech match the speaker's face.
 
+### seen speakers
+id05663
+
+![Branching](./image/5663.jpg)
+
+ground truth:
+<audio controls>
+  <source src="./audio/faceMatch/id05663.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+ours:
+<audio controls>
+  <source src="./audio/faceMatch/id05663_fake.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+id07017
+
+![Branching](./image/5663.jpg)
+
+ground truth:
+<audio controls>
+  <source src="./audio/faceMatch/id07017.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+ours:
+<audio controls>
+  <source src="./audio/faceMatch/id07017_fake.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+id07254
+
+![Branching](./image/5663.jpg)
+
+ground truth:
+<audio controls>
+  <source src="./audio/faceMatch/id07254.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+ours:
+<audio controls>
+  <source src="./audio/faceMatch/id07254_fake.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+
 ### unseen speakers
 id00425
 
