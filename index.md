@@ -4,13 +4,13 @@ Thus in this paper, we aim to generate proper voice characteristics in accordanc
 To address the problem, we first select 6 speaker characteristics related to the voice qualities: gender, age, race, body mass index, face shape, and personality. We then train a Conditional Variational AutoEncoder with attention (attentionCVAE) model to inference speaker embeddings from speaker characteristics and employ a multi-speaker text-to-speech system to generate speeches of nonexistent speakers we set.
 The subjective tests indicate that our method can reconstruct real-world speaker embedding, and generate meaningful fake embeddings from speaker characteristics. The further analysis uncovers how and to what extent the speaker characteristics influence the voice qualities of speakers.
 
-# Comparison with Baselines(Section 5.5)
+## Comparison with Baselines(Section 5.5)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ### LibriTTS
 <audio controls>
-  <source src="./audio/baselines/5126_34483.wav" type="audio/wav">
+  <source src="./audio/baselines/2532_157475.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 <audio controls>
@@ -18,7 +18,11 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 <audio controls>
-  <source src="./audio/baselines/5126_34483.wav" type="audio/wav">
+  <source src="./audio/baselines/7777_106366.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+<audio controls>
+  <source src="./audio/baselines/8677_246948.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
