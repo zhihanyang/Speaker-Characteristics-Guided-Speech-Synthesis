@@ -1,11 +1,8 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+**Abstract:**
+Nowadays, talking head techniques are widely researched. Most of the previous works pay attention to the association between tones, prosody, and visual cues, such as head motion, lip movement, and gestures. However, it is also important to concern with the timbre, matching the voice with the speaker identity, since people obtain speaker-specific information from both the auditory and visual modalities.
+Thus in this paper, we aim to generate proper voice characteristics in accordance with the speaker characteristics we set up.
+To address the problem, we first select 6 speaker characteristics related to the voice qualities: gender, age, race, body mass index, face shape, and personality. We then train a Conditional Variational AutoEncoder with attention (attentionCVAE) model to inference speaker embeddings from speaker characteristics and employ a multi-speaker text-to-speech system to generate speeches of nonexistent speakers we set.
+The subjective tests indicate that our method can reconstruct real-world speaker embedding, and generate meaningful fake embeddings from speaker characteristics. The further analysis uncovers how and to what extent the speaker characteristics influence the voice qualities of speakers.
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
