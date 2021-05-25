@@ -288,3 +288,32 @@ overweight
   <source src="./audio/attrMatch/m_fat.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+
+##### female
+
+underweight
+
+![Branching](./image/thin_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_thin.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+middleweight
+
+![Branching](./image/middleweight_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_middleage.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+overweight
+
+![Branching](./image/fat_f.png)
+
+<audio controls>
+  <source src="./audio/attrMatch/f_fat.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
